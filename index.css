@@ -1,0 +1,42 @@
+
+
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-top: 50px;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 50px;
+}
+
+p {
+    color: #333;
+    margin-top: 20px;
+}
+
+#input {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    width: 50%;
+    font-size: 18px;
+}
+
+button {
+    background-color: #754141;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    margin-top: 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
